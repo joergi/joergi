@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/joergi/joergi.svg)](http://hits.dwyl.com/joergi/joergi)    
+ahhh the good old 90ties are back: you can have now a counter on Github <3
+
+
+
 <!--
 **joergi/joergi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
