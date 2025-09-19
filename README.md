@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I will move many of my open-source projects to Codeberg.
-I'm doing it with the GitHub repo [migrate_github_repo_to_codeberg](https://github.com/joergi/migrate_github_repo_to_codeberg)
+I'm doing it with the GitHub repo [migrate_github_repo_to_codeberg](https://github.com/joergi/migrate_github_repo_to_codeberg)  
 The original is of course on my [Codeberg -> joergi/migrate_github_repo_to_codeberg](https://codeberg.org/joergi/migrate_github_repo_to_codeberg)
 
 <!--
